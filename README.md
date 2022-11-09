@@ -3,3 +3,11 @@
 Juego tipo snake con Arduino Nano y Anillo Neopixel controlado con un botón, mostrando el resultado en una Pantalla Oled 0.96''.
 
 Video: https://www.youtube.com/watch?v=1xPE0jYWPcQ
+
+## Componentes
+
+- Arduino Nano
+- Anillo Neopixel
+- Pantalla Oled 0.96''
+- Botón
+- Cables
