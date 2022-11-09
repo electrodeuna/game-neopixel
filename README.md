@@ -9,5 +9,6 @@ Video: https://www.youtube.com/watch?v=1xPE0jYWPcQ
 - Arduino Nano
 - Anillo Neopixel
 - Pantalla Oled 0.96''
+- Resistencia 220
 - Botón
 - Cables
